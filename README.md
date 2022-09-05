@@ -1,2 +1,0 @@
-# iKNSH-ABC
-KNSH
